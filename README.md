@@ -1,3 +1,2 @@
 # Loan-Prediction-System
 
-;
